@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run crodrigo2003/docker-react npm run test -- --coverage
-  
